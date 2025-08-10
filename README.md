@@ -15,11 +15,16 @@ Install all dependencies:
 ```bash 
 pip install -r requirements.txt
  ```
-## usage
+## Usage
 - python 1lane.py       # Single lane mode
 - python 2lane.py       # Two lane mode
 - python ca.py          # Dataset capture
 - python tlight_stop.py # Traffic light & stop sign detection
+
+## Project Diagram
+![Project Diagram](project_diagram.png)
+
+
 
   ---
 **Author:** Mohamed Shebeeb  
