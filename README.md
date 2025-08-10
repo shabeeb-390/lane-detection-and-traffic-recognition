@@ -12,11 +12,12 @@ It can control a robot via Arduino or run in detection-only mode.
 
 ## Requirements
 Install all dependencies:
-```bash
+```bash 
 pip install -r requirements.txt
+ ```
+## usage
+- python 1lane.py       # Single lane mode
+- python 2lane.py       # Two lane mode
+- python ca.py          # Dataset capture
+- python tlight_stop.py # Traffic light & stop sign detection
 
-## Usage
-python 1lane.py       # Single lane mode
-python 2lane.py       # Two lane mode
-python ca.py          # Dataset capture
-python tlight_stop.py # Traffic light & stop sign detection
