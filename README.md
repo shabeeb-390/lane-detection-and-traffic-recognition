@@ -14,6 +14,8 @@ It can control a robot via Arduino or run in detection-only mode.
 Install all dependencies:
 ```bash
 pip install -r requirements.txt
+
+## Usage
 python 1lane.py       # Single lane mode
 python 2lane.py       # Two lane mode
 python ca.py          # Dataset capture
