@@ -21,3 +21,7 @@ pip install -r requirements.txt
 - python ca.py          # Dataset capture
 - python tlight_stop.py # Traffic light & stop sign detection
 
+  ---
+**Author:** Mohamed Shebeeb  
+
+
