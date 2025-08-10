@@ -24,8 +24,6 @@ pip install -r requirements.txt
 ## Project Diagram
 ![Project Diagram](project_diagram.png)
 
-
-
   ---
 **Author:** Mohamed Shebeeb  
 
